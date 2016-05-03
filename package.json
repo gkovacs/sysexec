@@ -1,0 +1,26 @@
+{
+  "name": "sysexec",
+  "version": "1.0.0",
+  "description": "equivalent to os.system in python, executes command synchronously, prints output to console as it executes, and returns the exit code",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gkovacs/sysexec.git"
+  },
+  "keywords": [
+    "system",
+    "execute"
+  ],
+  "author": "Geza Kovacs (http://github.com/gkovacs)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gkovacs/sysexec/issues"
+  },
+  "homepage": "https://github.com/gkovacs/sysexec#readme"
+}
