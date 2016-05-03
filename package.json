@@ -1,9 +1,10 @@
 {
   "name": "sysexec",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "equivalent to os.system in python, executes command synchronously, prints output to console as it executes, and returns the exit code",
   "main": "index.js",
   "dependencies": {
+    "ffi": "^2.0.0"
   },
   "devDependencies": {},
   "scripts": {
